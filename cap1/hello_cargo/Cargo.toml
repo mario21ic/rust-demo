@@ -1,0 +1,7 @@
+[package]
+name = "hello_cargo"
+version = "0.1.0"
+authors = ["Mario Inga <mario21ic@gmail.com>"]
+cargo-features = ["edition"]
+
+[dependencies]
